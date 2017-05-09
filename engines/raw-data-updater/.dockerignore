@@ -1,0 +1,7 @@
+.git
+*.pyc
+*.pyo
+*.swp
+*.swo
+__pycache__
+logs

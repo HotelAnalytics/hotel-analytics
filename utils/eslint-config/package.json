@@ -1,0 +1,28 @@
+{
+    "name": "@hotel-analytics/eslint-config",
+    "version": "0.1.12",
+    "description": "Hotel Analytics Eslint Config",
+    "main": "index.js",
+    "files": [
+        "index.js"
+    ],
+    "publishConfig": {
+        "registry": "http://npm.hotel-analytics.com:4873"
+    },
+    "contributors": [
+        {
+            "name": "Corey Pauley",
+            "email": "cpauleyrun@gmail.com"
+        },
+        {
+            "name": "Ben Stotts",
+            "email": "bullweister@gmail.com "
+        }
+    ],
+    "dependencies": {
+        "babel-eslint": "7.1.0",
+        "eslint": "3.9.1",
+        "eslint-plugin-import": "2.2.0",
+        "eslint-plugin-react": "6.6.0"
+    }
+}

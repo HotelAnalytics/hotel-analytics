@@ -1,0 +1,9 @@
+# Python
+*.pyc
+
+# Vim
+*.swo
+*.swp
+
+# Node
+node_modules/

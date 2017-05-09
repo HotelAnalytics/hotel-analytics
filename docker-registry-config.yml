@@ -1,0 +1,16 @@
+version: 0.1
+storage:
+  s3:
+    accesskey:
+    secretkey:
+    region: us-east-1
+    bucket: com.hotel-analytics.docker.images
+auth:
+  silly:
+    realm: silly-realm
+    service: silly-service
+http:
+  addr: localhost:5000
+  secret: pM4yrSRUvgpwc6Ub85wGBbs5QTMu4jssp9yjx24q8R6
+  debug:
+    addr: localhost:5001
