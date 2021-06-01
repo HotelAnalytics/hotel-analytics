@@ -10,7 +10,7 @@ gunicorn==19.7.1
 marshmallow==2.13.5
 pika==0.10.0
 python-dateutil==2.4.2
-urllib3==1.14
+urllib3==1.26.5
 webargs==1.6.1
 pyodbc==3.0.7
 requests==2.13.0
