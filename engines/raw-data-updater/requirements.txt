@@ -17,7 +17,7 @@ sltc-ml-models==1.0.4
 mds-specs==1.1.4
 requests==2.10.0
 pymongo==3.2.2
-scrapy==1.0.5
+scrapy==2.6.2
 xmltodict==0.10.1
 PyPDF2==1.26.0
 termcolor==1.1.0
